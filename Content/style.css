@@ -1,0 +1,602 @@
+html {
+    background: #fff;
+    color: #000;
+    font-size: 100%;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+}
+body {
+    height: 100%;
+    -webkit-font-smoothing: none;
+    text-rendering: optimizeLegibility;
+    -ms-interpolation-mode: nearest-neighbor;
+    image-rendering: pixelated;
+    margin: 0px;
+}
+div {
+    display: block;
+}
+@media screen and (max-width: 880px) {
+    .page {
+        margin-bottom: 0;
+    }
+}
+.page {
+    position: relative;
+    overflow: hidden;
+    height: 660px;
+    width: 100%;
+    z-index: 10;
+    min-width: 880px;
+    background-color: #000;
+}
+.section {
+    background-color: #000;
+    position: absolute;
+    background-position: center;
+    width: 100%;
+    left: 0;
+}
+.section .graphic {
+    transform: translateX(-50%) translateY(-50%);
+    display: block;
+    position: absolute;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.section .ribbon {
+    position: absolute;
+    background-repeat: repeat-x;
+    background-position: center;
+    display: block;
+    width: 100%;
+}
+
+/* Extraction Section Start */
+
+.section.id-22 {
+    background-color: #000;
+    height: 660px;
+    top: 0px;
+    z-index: 76;
+}
+
+/* Left Side Start */
+.section.id-22 .left-side {
+    width: 50%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.section.id-22 .left-side .group {
+    white-space: nowrap;
+    width: 1500px;
+    position: absolute;
+    text-align: right;
+    right: 0;
+}
+
+
+/* Left-side First Line Start */
+
+.section.id-22 .left-side .group.id-1 {
+    top: 7px;
+    right: 0;
+}
+.section.id-22.ld .left-side .graphic.id-2 {
+    background-image: url(img/sprites/sprite22/left-side.png);
+    background-position: -226px -96px;
+    width: 400px;
+    height: 24px;
+}
+.section.id-22 .left-side .graphic {
+    position: static;
+    transform: translateX(0) translateY(0);
+    display: inline-block;
+    margin: 3px 8px 0 0;
+    vertical-align: middle;
+}
+.section.id-22 .left-side .graphic.id-1 {
+    width: 202px;
+    height: 27px;
+}
+.section.id-22.ld .left-side .graphic.id-1.is-ani {
+    background-image: url(img/content/22/left-side/1.gif);
+}
+
+/* Left-side First Line End */
+
+/* Left-side Second Line Start */
+
+.section.id-22 .left-side .group.id-2 {
+    top: 40px;
+    right: 0;
+}
+.section.id-22.ld .left-side .graphic.id-4 {
+    background-image: url(img/sprites/sprite22/left-side.png);
+    background-position: -100px -241px;
+    width: 125px;
+    height: 39px;
+}
+.section.id-22.ld .left-side .graphic.id-3 {
+    background-image: url(img/sprites/sprite22/left-side.png);
+    background-position: -312px -29px;
+    width: 352px;
+    height: 32px;
+}
+
+/* Left-side Second Line End */
+
+/* Left-side Third Line Start */
+
+.section.id-22 .left-side .group.id-3 {
+    top: 80px;
+    right: 0;
+}
+.section.id-22 .left-side .graphic.id-6 {
+    width: 153px;
+    height: 42px;
+}
+.section.id-22.ld .left-side .graphic.id-6 {
+    background-image: url(img/content/22/left-side/6.png);
+    
+}
+.section.id-22 .left-side .graphic.id-5 {
+    width: 459px;
+    height: 28px;
+}
+.section.id-22.ld .left-side .graphic.id-5 {
+    background-image: url(img/content/22/left-side/5.png);
+}
+
+/* Left-side Third Line End */
+
+/* Left-side Fourth Line Start */
+
+.section.id-22 .left-side .group.id-4 {
+    top: 128px;
+    right: 0;
+}
+.section.id-22.ld .left-side .graphic.id-7 {
+    background-image: url(img/sprites/sprite22/left-side.png);
+    background-position: -226px -71px;
+    width: 388px;
+    height: 25px;
+}
+.section.id-22.ld .left-side .graphic.id-8 {
+    background-image: url(img/sprites/sprite22/left-side.png);
+    background-position: 0 -211px;
+    width: 216px;
+    height: 30px;
+}
+
+/* Left-side Fourth Line End */
+
+/* Left-side Fifth Line Start */
+
+.section.id-22 .left-side .group.id-5 {
+    top: 167px;
+    right: 0;
+}
+.section.id-22 .left-side .graphic.id-10 {
+    width: 38px;
+    height: 38px;
+}
+.section.id-22.ld .left-side .graphic.id-10.is-ani {
+    background-image: url(img/content/22/left-side/10.gif);
+}
+.section.id-22.ld .left-side .graphic.id-9 {
+    background-image: url(img/sprites/sprite22/left-side.png);
+    background-position: 0 -71px;
+    width: 226px;
+    height: 51px;
+}
+
+/* Left-side Fifth Line End */
+
+/* Left-side Sixth Line Start */
+
+.section.id-22 .left-side .group.id-6 {
+    top: 169px;
+    right: 380px;
+}
+.section.id-22.ld .left-side .graphic.id-11 {
+    background-image: url(img/sprites/sprite22/left-side.png);
+    background-position: 0 -140px;
+    width: 440px;
+    height: 20px;
+}
+/* Left-side Sixth Line End */
+
+/* Left-side Seventh Line Start */
+
+.section.id-22 .left-side .group.id-7 {
+    top: 158px;
+    right: 232px;
+    z-index: 900;
+}
+.section.id-22 .left-side .graphic.id-12 {
+    width: 198px;
+    height: 124px;
+}
+.section.id-22.ld .left-side .graphic.id-12.is-ani {
+    background-image: url(img/content/22/left-side/12.gif);
+}
+/* Left-side Seventh Line End */
+
+/* Left-side Eight Line Start */
+
+.section.id-22 .left-side .group.id-8 {
+    top: 199px;
+    right: 440px;
+}
+.section.id-22 .left-side .graphic.id-13 {
+    width: 350px;
+    height: 20px;
+}
+.section.id-22.ld .left-side .graphic.id-13.is-ani {
+    background-image: url(img/content/22/left-side/13.gif);
+}
+
+/* Left-side Eight Line End */
+
+/* Left-side Nine Line Start */
+.section.id-22 .left-side .group.id-9 {
+    top: 225px;
+    right: 12px;
+    width: 273px;
+}
+.section.id-22 .left-side .ribbon {
+    margin: 3px 8px 0 0;
+    vertical-align: middle;
+    transform: translateX(0) translateY(0);
+    position: static;
+    display: inline-block;
+}
+.section.id-22 .left-side .ribbon.id-14 {
+    height: 9px;
+}
+.section.id-22.ld .left-side .ribbon.id-14 {
+    background-image: url(img/content/22/left-side/14.png);
+}
+
+/* Left-side Nine Line End */
+
+/* Left-side Ten Line Start */
+
+.section.id-22 .left-side .group.id-10 {
+    top: 225px;
+    right: 448px;
+}
+.section.id-22 .left-side .ribbon.id-14 {
+    height: 9px;
+}
+/* Left-side Ten Line End */
+
+/* Left-side Eleven Line Start */
+
+.section.id-22 .left-side .group.id-11 {
+    top: 250px;
+    right: 0;
+}
+.section.id-22.ld .left-side .graphic.id-15 {
+    background-image: url(img/sprites/sprite22/left-side.png);
+    background-position: 0 -185px;
+    width: 276px;
+    height: 26px;
+}
+/* Left-side Eleven Line End */
+
+/* Left-side Twelve Line Start */
+
+.section.id-22 .left-side .group.id-12 {
+    top: 250px;
+    right: 440px;
+}
+.section.id-22.ld .left-side .graphic.id-15 {
+    background-image: url(img/sprites/sprite22/left-side.png);
+    background-position: 0 -185px;
+    width: 276px;
+    height: 26px;
+}
+/* Left-side Twelve Line End */
+
+/* Left-side Thirteen Line End */
+
+.section.id-22 .left-side .group.id-13 {
+    top: 283px;
+    right: 8px;
+}
+.section.id-22 .left-side .ribbon.id-16 {
+    height: 10px;
+}
+.section.id-22.ld .left-side .ribbon.id-16 {
+    background-image: url(img/content/22/left-side/16.png);
+}
+/* Left-side Thirteen Line End */
+
+/* Left-side Fourteen Line Start */
+
+.section.id-22 .left-side .group.id-14 {
+    top: 303px;
+    right: 0;
+}
+.section.id-22 .left-side .ribbon.id-17 {
+    height: 11px;
+    background-position: right top;
+}
+.section.id-22.ld .left-side .ribbon.id-17 {
+    background-image: url(img/content/22/left-side/17.png);
+}
+/* Left-side Fourteen Line End */
+
+/* Left-side Fifteen Line Start */
+
+.section.id-22 .left-side .group.id-15 {
+    top: 327px;
+    right: 0;
+}
+.section.id-22 .left-side .graphic.id-18 {
+    width: 411px;
+    height: 13px;
+}
+.section.id-22.ld .left-side .graphic.id-18.is-ani {
+    background-image: url(img/content/22/left-side/18.gif);
+}
+.section.id-22.ld .left-side .graphic.id-19 {
+    background-image: url(img/sprites/sprite22/left-side.png);
+    background-position: 0 -122px;
+    width: 500px;
+    height: 18px;
+}
+/* Left-side Fifteen Line End */
+
+/* Left-side Sixteen Line Start */
+
+.section.id-22 .left-side .group.id-16 {
+    top: 352px;
+    right: 0;
+}
+.section.id-22.ld .left-side .graphic.id-21 {
+    background-image: url(img/sprites/sprite22/left-side.png);
+    background-position: 0 0;
+    width: 312px;
+    height: 71px;
+}
+.section.id-22.ld .left-side .graphic.id-20 {
+    background-image: url(img/sprites/sprite22/left-side.png);
+    background-position: 0 -241px;
+    width: 100px;
+    height: 60px;
+}
+/* Left-side Sixteen Line End */
+
+/* Left-side Seventeen Line Start */
+
+.section.id-22 .left-side .group.id-17 {
+    top: 428px;
+    right: 0;
+}
+.section.id-22.ld .left-side .graphic.id-23 {
+    background-image: url(img/sprites/sprite22/left-side.png);
+    background-position: -664px -29px;
+    width: 30px;
+    height: 30px;
+}
+.section.id-22.ld .left-side .graphic.id-22.is-ani {
+    background-image: url(img/content/22/left-side/22.gif);
+}
+.section.id-22 .left-side .graphic.id-22 {
+    width: 289px;
+    height: 30px;
+}
+/* Left-side Seventeen Line End */
+
+/* Left-side Eighteen Line Start */
+
+.section.id-22 .left-side .group.id-18 {
+    top: 470px;
+    right: 0;
+}
+.section.id-22.ld .left-side .graphic.id-24 {
+    background-image: url(img/sprites/sprite22/left-side.png);
+    background-position: -312px 0;
+    width: 468px;
+    height: 29px;
+}
+/* Left-side Eighteen Line End */
+
+/* Left-side Nineteen Line Start */
+.section.id-22 .left-side .group.id-19 {
+    top: 515px;
+    right: 0;
+}
+.section.id-22.ld .left-side .graphic.id-26 {
+    background-image: url(img/sprites/sprite22/left-side.png);
+    background-position: 0 -160px;
+    width: 311px;
+    height: 25px;
+}
+.section.id-22.ld .left-side .graphic.id-25.is-ani {
+    background-image: url(img/content/22/left-side/25.gif);
+}
+section.id-22 .left-side .group.id-19 .graphic {
+    vertical-align: top;
+}
+.section.id-22 .left-side .graphic.id-25 {
+    width: 128px;
+    height: 40px;
+}
+/* Left-side Nineteen Line End */
+
+/* Left-side Twenty Line Start */
+.section.id-22 .left-side .group.id-20 {
+    top: 548px;
+    right: 0;
+}
+.section.id-22 .left-side .group.id-20 .graphic {
+    vertical-align: bottom;
+    margin-right: 9px;
+}
+.section.id-22.ld .left-side .graphic.id-29.is-ani {
+    background-image: url(img/content/22/left-side/29.gif);
+}
+.section.id-22 .left-side .graphic.id-28 {
+    width: 271px;
+    height: 52px;
+}
+.section.id-22.ld .left-side .graphic.id-28.is-ani {
+    background-image: url(img/content/22/left-side/28.gif);
+}
+.section.id-22.ld .left-side .graphic.id-27 {
+    background-image: url(img/sprites/sprite22/left-side.png);
+    background-position: -225px -241px;
+    width: 125px;
+    height: 38px;
+}
+/* Left-side Twenty Line End */
+
+/* Left-side Twenty-one Line Start */
+.section.id-22 .left-side .group.id-21 {
+    top: 614px;
+    right: 8px;
+}
+.section.id-22 .left-side .ribbon.id-30 {
+    height: 5px;
+}
+.section.id-22.ld .left-side .ribbon.id-30 {
+    background-image: url(img/content/22/left-side/30.png);
+}
+/* Left-side Twenty-one Line End */
+
+/* Left-side Twenty-two Line Start */
+
+.section.id-22 .left-side .group.id-22 {
+    top: 634px;
+    right: 0;
+}
+.section.id-22 .left-side .ribbon.id-31 {
+    height: 11px;
+    background-position: right top;
+}
+.section.id-22.ld .left-side .ribbon.id-31 {
+    background-image: url(img/content/22/left-side/31.png);
+}
+/* Left-side Twenty-two Line End */
+
+/* Left Side End */
+
+/* Right Side Start */
+
+.section.id-22 .right-side {
+    width: 50%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 50%;
+}
+.section.id-22 .right-side .group {
+    white-space: nowrap;
+    width: 1500px;
+    position: absolute;
+}
+.section.id-22 .right-side .graphic {
+    position: static;
+    transform: translateX(0) translateY(0);
+    display: inline-block;
+    margin: 3px 3px 0 0;
+    vertical-align: middle;
+}
+
+/* Right-side First line Start */
+.section.id-22 .right-side .group.id-1 {
+    top: 0;
+    left: 0;
+    height: 30px;
+}
+.section.id-22.ld .right-side .graphic.id-1 {
+    background-image: url(img/sprites/sprite22/right-side.png);
+    background-position: 0 -258px;
+    width: 322px;
+    height: 24px;
+}
+.section.id-22 .right-side .graphic.id-2 {
+    width: 350px;
+    height: 11px;
+}
+.section.id-22.ld .right-side .graphic.id-2.is-ani {
+    background-image: url(img/content/22/right-side/2.gif);
+}
+/* Right-side First line End */
+
+/* Right-side Second line Start */
+
+
+
+/* Right-side Second line End */
+
+
+/* Right Side End */
+
+/* Top Animations Start */
+
+.section.id-22.ld>.graphic.id-1.is-ani {
+    background-image: url(img/content/22/1.gif);
+}
+.section.id-22>.graphic.id-1 {
+    width: 106px;
+    height: 119px;
+    left: 35%;
+    top: 92px;
+}
+.section.id-22.ld>.graphic.id-2.is-ani {
+    background-image: url(img/content/22/2.gif);
+}
+.section.id-22>.graphic.id-2 {
+    width: 100px;
+    height: 100px;
+    left: 95%;
+    top: 156px;
+}
+.section.id-22.ld>.graphic.id-3.is-ani {
+    background-image: url(img/content/22/3.gif);
+}
+.section.id-22>.graphic.id-3 {
+    width: 81px;
+    height: 71px;
+    left: 15%;
+    top: 304px;
+}
+.section.id-22.ld>.graphic.id-4.is-ani {
+    background-image: url(img/content/22/4.gif);
+}
+.section.id-22>.graphic.id-4 {
+    width: 222px;
+    height: 301px;
+    left: 50%;
+    top: 341px;
+    margin-left: 25px;
+}
+.section.id-22.ld>.graphic.id-5 {
+    background-image: url(img/content/22/5.png);
+}
+.section.id-22>.graphic.id-5 {
+    width: 124px;
+    height: 115px;
+    left: 39%;
+    top: 383px;
+}
+.section.id-22.ld>.graphic.id-6.is-ani {
+    background-image: url(img/content/22/6.gif);
+}
+.section.id-22>.graphic.id-6 {
+    width: 263px;
+    height: 172px;
+    left: 50%;
+    top: 384px;
+    margin-left: 460px;
+}
+/* Top Animations End */
+
+/* Extraction Section End */
